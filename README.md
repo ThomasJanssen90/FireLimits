@@ -1,8 +1,8 @@
 # FireLimits
 This repository contains the code for reproducing the results from the paper "What are the limits to the growth of boreal fires?" by Thomas Janssen and Sander Veraverbeke.
 
-The code for the main analysis is found [here](Analysis/Analysis_firebarriers.R)
-The specific analysis scripts that are dependencies for the main code are found [here](Analysis/Sourcefunctions)
+The code for the main analysis is found [here](Analysis/Analysis_firebarriers.R).
+The specific analysis scripts that are dependencies for the main code are found [here](Analysis/SourceFunctions).
 
 ## Abstract
 Several boreal forest regions, including East Siberia, experienced elevated fire activity in recent years. These fires substantially contributed to greenhouse gas emissions and air pollution. We currently have incomplete understanding of what eventually stops the spread and thus limits the growth of these fires. This hampers our ability to model their dynamics and predict their impacts. Here, we investigated the locations and timing of fire stops across the vast taiga of East Siberia.We used several geospatial datasets, including fire weather and landscape variables, which were overlaid with fire perimeters recorded between 2012 and 2022 to characterize the causes of fire stops. Using this approach, we attributed 87% of all fire stops to a statistically significant (p < 0.01) change in one or more of these environmental variables over time (fire weather) or space (landscape).
